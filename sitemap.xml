@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Home Page -->
+    <url>
+        <loc>https://dailyhookedup.co.ke/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Main Sections -->
+    <url>
+        <loc>https://dailyhookedup.co.ke/#home</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profiles</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#testimonials</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#contact</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Sugar Daddies Category -->
+    <url>
+        <loc>https://dailyhookedup.co.ke/#sugar-daddies</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Sugar Mummies Category -->
+    <url>
+        <loc>https://dailyhookedup.co.ke/#sugar-mummies</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Sugar Daddy Profiles -->
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-james-kamau</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/qFZAINQ.jpeg</image:loc>
+            <image:title>James Kamau - Tech Mogul</image:title>
+            <image:caption>42-year-old Tech Entrepreneur from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-michael-ochieng</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/onMwtQx.jpeg</image:loc>
+            <image:title>Dr. Michael Ochieng - Chief Surgeon</image:title>
+            <image:caption>41-year-old Chief Surgeon from Mombasa</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-david-wanyama</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/HrycRYz.jpeg</image:loc>
+            <image:title>David Wanyama - Real Estate Tycoon</image:title>
+            <image:caption>37-year-old Property Developer from Kisumu</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-robert-mwangi</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/lNlPuOg.jpeg</image:loc>
+            <image:title>Robert Mwangi - Energy Executive</image:title>
+            <image:caption>45-year-old Energy Executive from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-samuel-kiptoo</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/69ZoBcp.jpeg</image:loc>
+            <image:title>Samuel Kiptoo - Banking Director</image:title>
+            <image:caption>38-year-old Banking Director from Nakuru</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-peter-ndegwa</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/55sY3NQ.jpeg</image:loc>
+            <image:title>Peter Ndegwa - Manufacturing Tycoon</image:title>
+            <image:caption>40-year-old Industrialist from Eldoret</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-kevin-maina</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/h3jeKaR.jpeg</image:loc>
+            <image:title>Kevin Maina - International Trader</image:title>
+            <image:caption>39-year-old Global Business Consultant from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-andrew-mwiti</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/3O6kSRH.jpeg</image:loc>
+            <image:title>Andrew Mwiti - Stock Market Investor</image:title>
+            <image:caption>37-year-old Investor from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-thomas-mutiso</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/ay3MC1S.jpeg</image:loc>
+            <image:title>Thomas Mutiso - Construction Magnate</image:title>
+            <image:caption>38-year-old Infrastructure Expert from Machakos</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-john-karanja</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/jHZr3WD.jpeg</image:loc>
+            <image:title>John Karanja - Hospitality Baron</image:title>
+            <image:caption>37-year-old Hotel Chain Owner from Mombasa</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-paul-omolo</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/romTnn3.jpeg</image:loc>
+            <image:title>Paul Omolo - Agricultural Mogul</image:title>
+            <image:caption>41-year-old Agricultural Pioneer from Kitale</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-stephen-mutua</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/mJvZh2g.jpeg</image:loc>
+            <image:title>Stephen Mutua - Tech Venture Capitalist</image:title>
+            <image:caption>43-year-old Tech Investor from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-martin-ouko</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/WmEOxCc.jpeg</image:loc>
+            <image:title>Martin Ouko - International Legal Consultant</image:title>
+            <image:caption>41-year-old Legal Expert from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-william-simiyu</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/oxyNE8M.jpeg</image:loc>
+            <image:title>William Simiyu - Mining Executive</image:title>
+            <image:caption>38-year-old Mining Industry Leader from Kakamega</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-charles-mbogo</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/Z8cZPVh.jpeg</image:loc>
+            <image:title>Charles Mbogo - Wealth Management Expert</image:title>
+            <image:caption>40-year-old Wealth Strategist from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Sugar Mummy Profiles -->
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-fatima-abdullahi</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/g4pa6Tp.jpeg</image:loc>
+            <image:title>Fatima Abdullahi - Fashion Empire CEO</image:title>
+            <image:caption>35-year-old Fashion CEO from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-linda-chebet</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/v46l9Nb.jpeg</image:loc>
+            <image:title>Linda Chebet - Resort Chain Owner</image:title>
+            <image:caption>36-year-old Hospitality Magnate from Mombasa</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-rose-akinyi</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/jMdEwLJ.jpeg</image:loc>
+            <image:title>Rose Akinyi - Senior Partner Lawyer</image:title>
+            <image:caption>37-year-old Corporate Attorney from Nakuru</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-susan-wanjiku</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/Tbwk6DV.jpeg</image:loc>
+            <image:title>Susan Wanjiku - Property Developer</image:title>
+            <image:caption>36-year-old Real Estate Visionary from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-mary-auma</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/ZrVIAJj.jpeg</image:loc>
+            <image:title>Mary Auma - Import/Export Magnate</image:title>
+            <image:caption>38-year-old International Businesswoman from Kisumu</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-elizabeth-atieno</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/emFkVRS.jpeg</image:loc>
+            <image:title>Elizabeth Atieno - Beauty Empire Founder</image:title>
+            <image:caption>34-year-old Beauty Industry Pioneer from Eldoret</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-grace-mumbi</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/Fu33gfZ.jpeg</image:loc>
+            <image:title>Grace Mumbi - Medical Specialist</image:title>
+            <image:caption>35-year-old Medical Consultant from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-faith-wanjiru</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/NVf2HHr.jpeg</image:loc>
+            <image:title>Faith Wanjiru - Education Consultant</image:title>
+            <image:caption>33-year-old Education Visionary from Machakos</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-ann-nyambura</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/AvnfKIj.jpeg</image:loc>
+            <image:title>Ann Nyambura - Insurance Executive</image:title>
+            <image:caption>36-year-old Insurance Leader from Nakuru</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-monica-adhiambo</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/5w6Krtw.jpeg</image:loc>
+            <image:title>Monica Adhiambo - Event Planning Mogul</image:title>
+            <image:caption>36-year-old Event Planner from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-kendi-mwende</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/Cb4LcgP.jpeg</image:loc>
+            <image:title>Kendi Mwende - Agricultural Exporter</image:title>
+            <image:caption>38-year-old Floriculture Expert from Naivasha</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-catherine-wairimu</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/ciawyG7.jpeg</image:loc>
+            <image:title>Catherine Wairimu - Tech Startup Investor</image:title>
+            <image:caption>37-year-old Angel Investor from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-teresia-njeri</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/6oPyBDg.jpeg</image:loc>
+            <image:title>Teresia Njeri - Fashion Designer</image:title>
+            <image:caption>34-year-old Global Designer from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-lucy-akoth</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/m21quOB.jpeg</image:loc>
+            <image:title>Lucy Akoth - Restaurant Chain Owner</image:title>
+            <image:caption>36-year-old Culinary Entrepreneur from Nairobi</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://dailyhookedup.co.ke/#profile-winnie-moraa</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://i.imgur.com/oLeMGIj.jpeg</image:loc>
+            <image:title>Winnie Moraa - Automotive Dealer</image:title>
+            <image:caption>34-year-old Luxury Car Dealer from Kisii</image:caption>
+        </image:image>
+    </url>
+    
+</urlset>
